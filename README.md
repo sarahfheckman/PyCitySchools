@@ -1,2 +1,2 @@
 # PyCitySchools
-Homework 4 - Using pandas to clean data 
+Using pandas and python to create a summary of school performance.
